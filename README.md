@@ -19,3 +19,7 @@ Here, you can find most of my projects for several bachelor courses. If you are 
 [China: Languages, Culture and Communication](https://github.com/NienkeWessel/RU-Bachelor/tree/master/LET-CIWMI632_China_lang_cult_comm)
 
 [Latin texts](https://github.com/NienkeWessel/RU-Bachelor/tree/master/LET-GLTCB107%2C8_Latin_Texts)
+
+[Sign Language and Deaf Culture](https://github.com/NienkeWessel/RU-Bachelor/tree/master/LET-TWB128_Gebarentaal_en_Dovencultuur)
+
+[LingLab 1](https://github.com/NienkeWessel/RU-Bachelor/tree/master/LET-TWB131A_LingLab_1)
