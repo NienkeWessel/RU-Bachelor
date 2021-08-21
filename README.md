@@ -25,3 +25,5 @@ Here, you can find most of my projects for several bachelor courses. If you are 
 [LingLab 1](https://github.com/NienkeWessel/RU-Bachelor/tree/master/LET-TWB131A_LingLab_1)
 
 [1492: Race, Religion and the Colonising Man](https://github.com/NienkeWessel/RU-Bachelor/tree/master/FTR-FIPPSB210_1492_Race_Religion_Colonizing_Man)
+
+[Estereotipos en la cultura hispánica](https://github.com/NienkeWessel/RU-Bachelor/tree/master/LET-RTCBS210_Estereotipos_en_la_cultura_hispanica)
