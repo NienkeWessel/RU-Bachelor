@@ -23,3 +23,5 @@ Here, you can find most of my projects for several bachelor courses. If you are 
 [Sign Language and Deaf Culture](https://github.com/NienkeWessel/RU-Bachelor/tree/master/LET-TWB128_Gebarentaal_en_Dovencultuur)
 
 [LingLab 1](https://github.com/NienkeWessel/RU-Bachelor/tree/master/LET-TWB131A_LingLab_1)
+
+[1492: Race, Religion and the Colonising Man](https://github.com/NienkeWessel/RU-Bachelor/tree/master/FTR-FIPPSB210_1492_Race_Religion_Colonizing_Man)
